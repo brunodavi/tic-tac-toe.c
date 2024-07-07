@@ -5,13 +5,22 @@ game through the terminal
 
 ![screenshot](images/screenshot.jpg)
 
-## Requires
-- gcc
-- stdio
-- stdlib
-- make
-
 ## How to Play
+
+### Your Browser
+
+Acess [this link](https://onlinegdb.com/ZPun7nVtE) and
+test quickly
+
+
+### Your Computer
+
+#### Requires
+- git
+- make
+    - gcc
+        - stdio
+        - stdlib
 
 ```sh
 git clone https://github.com/brunodavi/tic-tac-toe.c
