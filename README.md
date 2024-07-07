@@ -7,13 +7,13 @@ game through the terminal
 
 ## How to Play
 
-### Your Browser
+### In your Browser
 
-Acess [this link](https://onlinegdb.com/ZPun7nVtE) and
+Access [this link](https://onlinegdb.com/ZPun7nVtE) and
 test quickly
 
 
-### Your Computer
+### In your Computer
 
 #### Requires
 - git
